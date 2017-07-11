@@ -1,4 +1,4 @@
-﻿Project Gutenberg's Prinz Friedrich von Homburg, by Heinrich von Kleist
+Project Gutenberg's Prinz Friedrich von Homburg, by Heinrich von Kleist
 #5 in our series by Heinrich von Kleist
 
 Copyright laws are changing all over the world. Be sure to check the
@@ -61,11 +61,11 @@ http://gutenberg2000.de erreichbar.
 
 
 
-Prinz Friedrich von Homburg
+# Prinz Friedrich von Homburg
 
-Heinrich von Kleist
+## Heinrich von Kleist
 
-Ein Schauspiel
+### Ein Schauspiel
 
 
 _Ihrer Königlichen Hoheit_
@@ -87,7 +87,7 @@ Und krönt ihn die, so krönen sie ihn alle.
 
 
 
-Personen:
+### Personen:
 
 Friedrich Wilhelm, Kurfürst von Brandenburg
 
@@ -127,7 +127,7 @@ Geschlechts.
 
 
 
-Erster Akt
+## Erster Akt
 
 
 
@@ -135,7 +135,7 @@ Szene.  Fehrbellin.  Ein Garten im altfranzösischen Stil.
 Im Hintergrunde ein Schloß, von welchem eine Rampe
 herabführt.--Es ist Nacht.
 
-Erster Auftritt
+### Erster Auftritt
 
 Der Prinz von Homburg sitzt mit bloßem Haupt und offner
 Brust, halb wachend halb schlafend, unter einer Eiche und
